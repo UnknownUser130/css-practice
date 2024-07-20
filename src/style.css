@@ -1,0 +1,26 @@
+button {
+  cursor: pointer;
+  border: white;
+  color: #fdfdfd;
+  background-color: #3882f6;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.header-logo .image {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  display: inline;
+}
+
+.header-logo .link {
+  font-size: 18px;
+  color: #e5e7eb;
+  display: inline;
+}
+
+.first {
+  background-color: #1f2937;
+  padding-left: 20px;
+}
